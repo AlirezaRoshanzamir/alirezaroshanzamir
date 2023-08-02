@@ -8,7 +8,7 @@ Accomplished software engineer with 7 years of experience in developing enterpri
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-roshanzamir) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/alireza-roshanzamir) [![Codewars](https://img.shields.io/badge/Codewars-red?logo=Codewars)](https://www.codewars.com/users/AlirezaRoshanzamir) [![Personal Website](https://img.shields.io/badge/Personal_Website-%2332bfb6?logo=academia)](https://alirezaroshanzamir.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza-roshanzamir) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6628488/alireza-roshanzamir) [![Codewars](https://img.shields.io/badge/Codewars-red?logo=Codewars)](https://www.codewars.com/users/AlirezaRoshanzamir) [![Personal Website](https://img.shields.io/badge/Personal_Website-%2332bfb6?logo=academia)](https://alirezaroshanzamir.github.io)
 
 
 ## 💻 Tech Stack
